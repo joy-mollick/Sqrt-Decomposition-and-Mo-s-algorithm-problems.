@@ -1,5 +1,6 @@
 
 /// Very Clear and Clean Code 
+/// Mo's Algorithm using sqrt decomposition technique 
 /// Time Complexity Approximately  O((N+M)*sqrt(N))
 
 #include<bits/stdc++.h>
